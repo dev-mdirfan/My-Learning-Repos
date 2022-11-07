@@ -2,6 +2,6 @@
 
 __List of all repos where I learn from -__
 
-|Repository Name|Platform Source|
-|---|---|
-|[WEB-Development-CWH](https://github.com/dev-mdirfan/WEB-Development-CWH.git)||
+|S.No.|Repository Name|Platform Source|
+|---|---|---|
+|__1.__|[WEB-Development-CWH](https://github.com/dev-mdirfan/WEB-Development-CWH.git)||
