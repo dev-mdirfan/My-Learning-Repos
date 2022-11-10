@@ -1,4 +1,4 @@
-# My-Learning-Repos
+# My Learning Repository
 
 __List of all repos where I learn from -__
 
