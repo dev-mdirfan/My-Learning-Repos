@@ -12,6 +12,6 @@ __List of all repos where I learn from -__
 
 |S.No|Repository Name|Source Link|
 |---|---|---|
-|__1.__|__[Complete Git and Github by Kunal Kushwaha]()__||
-|__2.__|__[Learn Git and GitHub by Anuj Bhaiya]()__||
+|__1.__|__[Complete Git and Github by Kunal Kushwaha](https://github.com/dev-mdirfan/git-and-github-by-kunal-kushwaha-notes.git)__||
+|__2.__|__[Learn Git and GitHub by Anuj Bhaiya](https://github.com/dev-mdirfan/git-and-github-by-Anuj-bhaiya-notes.git)__||
 |__3.__|__[]()__||
